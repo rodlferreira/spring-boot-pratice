@@ -13,3 +13,5 @@ public class MinhaConfiguration {
         };
     }
 }
+
+//Dessa parte em diante, todas as novas implementações vão para a nova branch (develop)
